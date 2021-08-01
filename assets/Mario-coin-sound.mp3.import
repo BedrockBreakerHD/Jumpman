@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Mario-coin-sound.mp3-e4f053c34158238bad572ae875866fa1.mp3str"
+
+[deps]
+
+source_file="res://assets/Mario-coin-sound.mp3"
+dest_files=[ "res://.import/Mario-coin-sound.mp3-e4f053c34158238bad572ae875866fa1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
